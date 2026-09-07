@@ -1,4 +1,4 @@
-@'
+
 <h1 align="center">Hi 👋, I'm Blessing Azeta</h1>
 <p align="center">
 <strong>Aspiring Cloud Engineer • Software Developer • App Developer & QA Specialist • DevOps Enthusiast</strong>
@@ -47,14 +47,14 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 
 ---
 
-<div align="center" style="background-color:#f5f5f5; padding:15px; border-radius:10px;">
+<p align="center" style="background-color:#f5f5f5; padding:15px; border-radius:10px;">
   <img src="images/Kubernetes.png" width="120"/>
   <img src="images/NetAce.png" width="120"/>
   <img src="images/KCNA.png" width="120"/>
   <img src="images/FinEng.png" width="120"/>
   <img src="images/FinOps.png" width="120"/>
   <img src="images/DSEC.png" width="120"/>
-</div>
+</p>
 
 ---
 
