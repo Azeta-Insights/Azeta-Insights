@@ -48,12 +48,12 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 ---
 
 <p align="center" style="background-color:#f5f5f5; padding:15px; border-radius:10px;">
-  <img src="images/Kubernetes.png" width="120"/>
-  <img src="images/NetAce.png" width="120"/>
-  <img src="images/KCNA.png" width="120"/>
-  <img src="images/FinEng.png" width="120"/>
-  <img src="images/FinOps.png" width="120"/>
-  <img src="images/DSEC.png" width="120"/>
+  <img src="Kubernetes.png" width="120"/>
+  <img src="NetAce.png" width="120"/>
+  <img src="KCNA.png" width="120"/>
+  <img src="FinEng.png" width="120"/>
+  <img src="Finops.png" width="120"/>
+  <img src="DSEC_2LM6D86ALSE8 (1).png" width="120"/>
 </p>
 
 ---
