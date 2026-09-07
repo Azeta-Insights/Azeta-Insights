@@ -48,12 +48,12 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 ---
 
 <p align="center">
-<img src="images/introduction-to-kubernetes.png" width="120"/>
-<img src="images/aviatrix-ace.png" width="120"/>
-<img src="images/kcna.png" width="120"/>
-<img src="images/foundations-financial-engineering.png" width="120"/>
-<img src="images/finops-practitioner.png" width="120"/>
-<img src="images/ECC-DSE-Certificate.png" width="120"/>
+<img src="images/Kubernetes.png" width="120"/>
+<img src="images/NetAce.png" width="120"/>
+<img src="images/KCNA.png" width="120"/>
+<img src="images/FinEng.png" width="120"/>
+<img src="images/Finops.png" width="120"/>
+<img src="images/DSEC_2LM6D86ALSE8 (1).png" width="120"/>
 </p>
 
 ---
@@ -63,13 +63,9 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeta-Insights&layout=compact&theme=default"/>
 </p>
 
----
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Azeta-Insights"/>
 </p>
-
----
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azeta-Insights&theme=github-compact"/>
