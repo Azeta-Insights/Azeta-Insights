@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="Header1.png" width="1800"/>
+  <img src="Header1.png" width="1000"/>
 </p>
 
 ---
