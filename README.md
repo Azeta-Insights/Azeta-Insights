@@ -1,13 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Blessing Azeta</h1>
-
-<p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • App Developer & QA Specialist • Bug-Free Mobile Solutions • DevOps Enthusiast</strong>
-</p>
-
-<p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
-building real-world projects, and continuously improving my technical skills.
+<h1 align="center">
+  <img src="Header.png" width="1800"/>
 </p>
 
 ---
