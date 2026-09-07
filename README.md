@@ -50,3 +50,40 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 <div align="center" style="background-color:#f5f5f5; padding:15px; border-radius:10px;">
   <img src="images/Kubernetes.png" width="120"/>
   <img src="images/NetAce.png" width="120"/>
+  <img src="images/KCNA.png" width="120"/>
+  <img src="images/FinEng.png" width="120"/>
+  <img src="images/FinOps.png" width="120"/>
+  <img src="images/DSEC.png" width="120"/>
+</div>
+
+---
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azeta-Insights&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeta-Insights&layout=compact&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Azeta-Insights"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azeta-Insights&theme=github-compact"/>
+</p>
+
+---
+
+### 🎯 Goals
+- ✅ Build 10 real-world cloud projects  
+- ✅ Contribute to open source  
+- ✅ Earn cloud certifications  
+- ✅ Learn Kubernetes deeply  
+- ✅ Strengthen Linux skills  
+- ✅ Land a Cloud Engineering role  
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
+'@ | Set-Content README.md
