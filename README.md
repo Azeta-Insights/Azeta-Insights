@@ -70,24 +70,13 @@
 ---
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azeta-Insights&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeta-Insights&layout=compact&theme=default"/>
+<img src="https://streak-stats.demolab.com?user=Azeta-Insights&theme=radical"/>
 </p>
 
 ---
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Azeta-Insights"/>
+  <b>"Automating infrastructure, securing code, and scaling cloud systems with precision."</b>
 </p>
-
----
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azeta-Insights&theme=github-compact"/>
-</p>
-
----
-
-<p align="center">
-⭐ Thank you for visiting my profile! ⭐
+  ⭐ Thank you for visiting my profile! ⭐
 </p>
