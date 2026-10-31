@@ -1,20 +1,19 @@
-
 <h1 align="center">
   <img src="Header1.png" width="1500"/>
 </p>
 
 ---
+
 ### 💬 About Me
-- 🌱 Currently learning **Cloud (Azure), DevOps, DevSecOps, and Go** — mastering VMs, App Services, CI/CD, Kubernetes, and Terraform  
-- 🚀 Working on **Blazeworld** (Flask e-commerce app on Azure), **StudyPal by Blaze** (offline-first exam prep Android app), and **Wealth Habits** (financial literacy app for Nigerians)  
-- 🤝 Open to collaboration on **Cloud, DevOps, and Android/mobile app projects**  
-- 💬 Ask me about **Cloud, Linux, DevOps, DevSecOps, or building apps in Google AI Studio**  
-- 🎯 Goal: Become a **Cloud & DevOps / Site Reliability Engineer**  
-- 📫 Reach me at **azetablessingb@gmail.com** or **azetablessing@outlook.com**
+- 🌱 **Cloud, DevOps & DevSecOps Engineer** specializing in secure containerization, infrastructure-as-code, automated CI/CD pipelines, and cloud cost governance.
+- 📈 Currently pursuing an **M.Sc. in Financial Engineering** (Expected Dec 2027), bridging cloud infrastructure with quantitative risk modeling.
+- 🚀 Working on production-grade systems including **QuantGuard** (Parametric VaR & FinOps Engine), **Executive-Chief-of-Staff** (Azure AI Briefing Platform), and **Wealth Habits**.
+- 📍 Seeking roles in Cloud Architecture, FinOps, and DevSecOps.
+- 📫 Reach me at **azetablessingb@gmail.com** or connect with me below!
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect with Me
 <p align="center">
   <a href="https://github.com/Azeta-Insights" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
@@ -29,20 +28,18 @@
 
 ---
 
-### 🚀 Skills
+### 🚀 Technical Stack & Tooling
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws" />
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,linux,python,fastapi,typescript,nodejs,vscode,git" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Cloud & DevSecOps Projects
 
-**[Blazeworld](https://github.com/Azeta-Insights/Blazeworld)** — Flask e-commerce app deployed on Azure App Service.
-
-**[StudyPal by Blaze](https://github.com/Azeta-Insights/StudyPal)** — Offline-first WAEC/JAMB/NECO exam-prep Android app.
-
-**[Wealth Habits](https://github.com/Azeta-Insights/Wealth-Habits)** — Financial literacy app for Nigerians tied to real transaction data.
+* **[QuantGuard-API](https://github.com/Azeta-Insights/quant-guard-api)** — Cloud-native Parametric Value at Risk (VaR) microservice. Features automated DevSecOps Trivy vulnerability gating in GitHub Actions, least-privilege non-root Docker hardening, and Terraform-provisioned Azure Container Apps with scale-to-zero FinOps cost governance.
+* **[Executive-Chief-of-Staff](https://github.com/Azeta-Insights/Executive-Chief-of-Staff)** — AI-powered executive briefing platform deployed on Azure Container Apps with automated DevSecOps pipelines and Cloudflare Worker proxy integration.
+* **[Blaze Store](https://github.com/Azeta-Insights/Blaze_Store)** — Cloud-native Express and React e-commerce application integrated with Firebase Firestore and Paystack payment gateway verification.
 
 ---
 
@@ -88,16 +85,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azeta-Insights&theme=github-compact"/>
 </p>
-
----
-
-### 🎯 Goals
-- ✅ Build 10 real-world cloud projects
-- ✅ Contribute to Open Source
-- ✅ Earn Cloud Certifications
-- ✅ Learn Kubernetes
-- ✅ Improve Linux Skills
-- ✅ Land a Cloud Engineering Role
 
 ---
 
